@@ -1,1 +1,1 @@
-# music-app-react
+# Spotify Clone React-APP
